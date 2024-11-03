@@ -1,5 +1,10 @@
 # wine-quality
 
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+
 - Download data set
 - Look at the dataset
 
