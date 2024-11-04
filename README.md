@@ -1,5 +1,5 @@
 # wine-quality
-
+- frameworks:
 - pandas
 - matplotlib
 - seaborn
@@ -12,11 +12,13 @@
 -   Look for trends
 -   Look for NA values
 -   Look for distributions
+-   Look for columns that have possible outliers
 
 - Data Cleaning:
 -   Checking outliers, fixing them --> Winsorizing based on SD or IQR
 -   Clean NA values
 -   Clean anything
+
 -   Feature Engineering:
 
 - Modeling:
